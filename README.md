@@ -36,4 +36,4 @@ Complete **Adobe XD Works** photo and design environment offering non-destructiv
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.   
+> This repository is provided for educational and utility purposes only. Use at your own discretion.    
